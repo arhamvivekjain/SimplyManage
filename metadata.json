@@ -1,0 +1,6 @@
+{
+  "name": "SimplyManage",
+  "description": "The accounting system that speaks human. AI-native financial management with deterministic double-entry accounting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
